@@ -61,4 +61,5 @@ cd task-manager
 chmod 755 .
 
 # 4. افتح التطبيق في المتصفح
-http://localhost/task-manager![Screenshot_2025-10-01-10-34-50](https://github.com/user-attachments/assets/da7718be-1077-4b7e-b25c-4ad34a191193)
+http://localhost/task-manager
+
